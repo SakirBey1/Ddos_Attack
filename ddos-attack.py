@@ -17,7 +17,7 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
 
-os.system("açık")
+os.system("clear")
 os.system("figlet DDos Saldırısı")
 print
 print "Kod Sahibi   : SakirBey1"
@@ -28,7 +28,7 @@ print
 ip = raw_input("IP Giriniz : ")
 port = input("Port       : ")
 
-os.system("açık")
+os.system("clear")
 os.system("figlet Saldırısı Başlıyor")
 print "[                    ] 0% "
 time.sleep(5)
