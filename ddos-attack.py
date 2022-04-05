@@ -1,3 +1,4 @@
+#Kodlarda Değişiklik Yaparsan aksi Takdirde Çalışmaz Ve Hata Verir
 import sys
 import os
 import time
