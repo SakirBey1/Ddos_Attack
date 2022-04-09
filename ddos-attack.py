@@ -21,7 +21,6 @@ bytes = random._urandom(1490)
 os.system("clear") #Bu kısımlara ellemeyin aksi takdirde çalışmaz
 os.system("figlet DDos Saldırısı")
 print
-print "Developer SakirBey Vip Tool"
 print "Kod Sahibi   : SakirBey"
 print "İnstagram : https://www.instagram.com/developer.rat"
 print "Github   : https://github.com/SakirBey1"
